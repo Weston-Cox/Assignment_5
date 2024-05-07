@@ -7,6 +7,6 @@ Object Oriented design principles like **polymorphism** and **inheritance**, **M
 
 ## How to Run
 
-No build tools were used, so you can simply 'javac *.java' and 'java Game' to run the program. 
+No build tools were used, so you can simply `javac *.java` and `java Game` to run the program. 
 
-However, I have a 'build.bat' file that can compile and run the game very simply for you.
+However, I have a `build.bat` file that can compile and run the game very simply for you.
